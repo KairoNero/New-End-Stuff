@@ -16,7 +16,7 @@
 To install the New End Stuff mod, follow these steps:
 
 1. **Download NeoForge**: Make sure you have the NeoForge modding platform installed. You can download it from the official website.
-2. **Download the Mod**: Get the latest version of the New End Stuff mod from the [Releases](#) section.
+2. **Download the Mod**: Get the latest version of the New End Stuff mod from the [Releases](https://modrinth.com/mod/new-end-stuff) section.
 3. **Place in Mods Folder**: Move the `.jar` file into your Minecraft `mods` folder.
 4. **Launch Minecraft**: Start the game and ensure the mod is enabled in the Mods menu.
 5. **Enjoy!**: Explore the expanded End dimension with new content.
