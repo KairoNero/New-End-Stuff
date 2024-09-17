@@ -1,7 +1,7 @@
 # New End Stuff Mod
 
 ## Introduction
-**New End Stuff** is a Minecraft: Java Edition mod developed by **KaisoNero**. This mod expands "The End" dimension by introducing new ores, tools, and unique items that enhance your gameplay experience in this mysterious and challenging world.
+**New End Stuff** is a Minecraft: Java Edition mod developed by **Kaisoneo**. This mod expands "The End" dimension by introducing new ores, tools, and unique items that enhance your gameplay experience in this mysterious and challenging world.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -54,12 +54,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Credits
 
-- **Developer**: TheDucklyn
+- **Developer**: Kaisoneo
 - **Special Thanks**: A big thanks to the Minecraft modding community for their support and resources.
 
 ## Contact
 
-For any questions, suggestions, or feedback, feel free to contact KaisoNero via [email](justus.panberg@gmx.de) or join the [Discord](https://discord.gg/PHTV2UgUNg) community.
+For any questions, suggestions, or feedback, feel free to contact Kaisoneo via [email](justus.panberg@gmx.de) or join the [Discord](https://discord.gg/PHTV2UgUNg) community.
 
 ---
 
